@@ -30,7 +30,7 @@ pip install pandas matplotlib seaborn
 
 Usage
 Clone the repository:
-git clone https://github.com/arpitshakya23/fifa-player-analysis.git
+git clone https://github.com/arpitshakya23/Fifa_player_analysis_project.git
 
 Navigate to the project directory:
 cd fifa-player-analysis  
